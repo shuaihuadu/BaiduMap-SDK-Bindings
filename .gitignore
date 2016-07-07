@@ -3,3 +3,11 @@
 ################################################################################
 
 /BaiduMap.Xamarin.Droid/obj/Debug
+/BaiduMap.Xamarin.Droid/bin/Debug
+/obj/Debug
+/Sample/Android/BaiduMap.Xamarin.AndroidDemo/bin/Debug
+/Sample/Android/BaiduMap.Xamarin.AndroidDemo/obj/Debug
+/Sample/Forms/BaiduMap.Xamarin.Forms.Demo/obj/Debug
+/Sample/Forms/BaiduMap.Xamarin.Forms.Demo.Droid/obj/Debug
+/Sample/Forms/BaiduMap.Xamarin.Forms.Demo.iOS/obj/iPhone/Debug
+/Sample/Forms/BaiduMap.Xamarin.Forms.Demo.UWP/obj/x86/Debug
