@@ -1,0 +1,7 @@
+<metadata>
+  <attr path="/api/package[@name='com.baidu.mapapi']/class[@name='VersionInfo']/field[@name='VERSION_INFO']" name="name">VersionInformation</attr>
+  <attr path="/api/package[@name='com.baidu.location']/class[@name='Address']/field[@name='address']" name="name">AddressInfo</attr>
+  <attr path="/api/package[@name='com.baidu.location']/class[@name='LocationClientOption']/field[@name='mLocationMode']" name="visibility">public</attr>
+  <attr path="/api/package[@name='com.baidu.platform.comapi.map']/class[@name='A']/field[@name='a']" name="name">AField</attr>
+  <attr path="/api/package[@name='com.baidu.platform.comapi.map']/class[@name='D']/field[@name='d']" name="name">DField</attr>
+</metadata>
