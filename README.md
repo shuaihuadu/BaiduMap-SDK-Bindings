@@ -7,7 +7,7 @@ Only a simple Map SDK Demo in "Sample" folder.
 
 Keep updating.
 
-
+![alt tag](https://cloud.githubusercontent.com/assets/17045801/16650456/bebc04d4-4470-11e6-887c-075e2910a960.png)
 
 
 
